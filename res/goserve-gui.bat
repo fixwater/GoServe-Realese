@@ -1,0 +1,1 @@
+.\res\browser.exe --url=http://localhost:11313/ --custom-ui=0

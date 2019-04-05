@@ -1,0 +1,1 @@
+.\res\gosuv.exe start-server
